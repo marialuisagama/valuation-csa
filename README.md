@@ -11,6 +11,7 @@ A Concessionária de Saneamento do Amapá (CSA), controlada pela Equatorial, ven
 - **Cobertura mede rede, não clientes.** Pelo contrato, o índice de cobertura conta as economias *em condições* de se ligar. Só 54% delas são clientes ativos, e apenas 1 em cada 4 domicílios que ganharam rede desde 2022 passou a pagar. As economias ativas caem desde o 2T25.
 - **A concessão se paga, mas rende pouco.** O fluxo de caixa acumulado só fica positivo em 2052, e a TIR real é de 2,1%, abaixo do custo da própria dívida (6,8%). A 15% real, o enterprise value é de −R$ 373 milhões.
 - **O problema dominante é a dívida.** Mesmo no cenário otimista, com quatro alavancas de turnaround combinadas, o equity fica em −R$ 1,4 bilhão. A dívida de R$ 1,4 bilhão é várias vezes maior que o valor da operação.
+- **A própria controladora avalia a CSA com premissas mais otimistas.** A Equatorial calculou o valor da CSA em R$ 947 milhões no teste de impairment de 2025; a diferença para este modelo se concentra em adesão e custo operacional. A dívida é garantida pela Equatorial, o que ajuda a explicar a venda não concluída.
 
 **Sem reestruturar a dívida, a CSA não vale a compra; com a dívida reestruturada, o valor depende inteiramente da execução do turnaround.**
 
